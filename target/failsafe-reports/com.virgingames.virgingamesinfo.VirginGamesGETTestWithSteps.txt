@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.virgingames.virgingamesinfo.VirginGamesGETTestWithSteps
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.163 sec - in com.virgingames.virgingamesinfo.VirginGamesGETTestWithSteps

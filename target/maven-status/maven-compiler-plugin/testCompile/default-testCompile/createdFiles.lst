@@ -1,0 +1,4 @@
+com\virgingames\CucumberRunner.class
+com\virgingames\steps\CurrencySteps.class
+resources\testdata\TestBase.class
+com\virgingames\virgingamesinfo\VirginGamesGETTestWithSteps.class

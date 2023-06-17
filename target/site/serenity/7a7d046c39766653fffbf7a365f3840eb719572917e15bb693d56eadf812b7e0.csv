@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Virgin games GET test with steps","get the all JACKPOTS GBP","SUCCESS","2023-06-17T21:57:51.913+01:00[Europe/London]","0.0","2.64"
+"Virgin games GET test with steps","get the all Jackpots EUR","SUCCESS","2023-06-17T21:57:54.580+01:00[Europe/London]","0.0","0.15"
+"Virgin games GET test with steps","get the all Jackpots SEK","SUCCESS","2023-06-17T21:57:54.727+01:00[Europe/London]","0.0","0.15"
